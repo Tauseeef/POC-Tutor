@@ -1,0 +1,11 @@
+apiVersion: v1
+name: tutorPOC
+version: 0.1.0
+appVersion: 0.1.0
+description: Testing 
+
+sources:
+- https://github.com/tauseeef/POC-tutor
+maintainers:
+- name: Tauseef Chahal
+  email: tauseef.anjum@arbisoft.com
